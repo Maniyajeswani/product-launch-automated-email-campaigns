@@ -42,8 +42,8 @@ A powerful React-based web application that generates compelling Product Launch 
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd proj2-email_automation
+   git clone https://github.com/Maniyajeswani/product-launch-automated-email-campaigns.git
+   cd product-launch-automated-email-campaigns
    ```
 
 2. **Install dependencies**
@@ -111,7 +111,7 @@ To use real AI-generated content instead of mock responses:
 ## 🏗️ Project Structure
 
 ```
-proj2-email_automation/
+product-launch-automated-email-campaigns/
 ├── public/
 │   └── index.html
 ├── src/
